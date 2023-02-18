@@ -14,7 +14,7 @@ Second,  download the dataset 2 from the following link:
 
 https://github.com/sehresh92/Data-Blending-Data-Analysis-and-Data-Visualization-in-Tableau/blob/main/Datasets/Dataset%202.xlsx
 
-Data Blending Description Pictures from Dataset 1 and Dataset 2 :
+Pictures of Data Blending Description from Dataset 1 and Dataset 2 :
 
 https://github.com/sehresh92/Data-Blending-Data-Analysis-and-Data-Visualization-in-Tableau/blob/main/Data%20Blending%20Calculation%20graph%20pictures/Data%20Blending%20Calculation%20graph%20pic.jpg
 
